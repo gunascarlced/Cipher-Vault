@@ -1,7 +1,7 @@
 # Cipher-Vault
 
 **Cipher Vault** is a secure command-line interface (CLI) password manager written in Python.  
-It stores your passwords encrypted using a **Caesar cipher** with a shift of `-12`, so your credentials remain safe even if someone accesses your file.
+It stores your passwords encrypted using a **Caesar cipher**, so your credentials remain safe even if someone accesses your file.
 
 ---
 
